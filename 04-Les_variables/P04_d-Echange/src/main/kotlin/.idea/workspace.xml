@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5e6b1b3-d02e-4308-80a7-867f47b1c4fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/Exo-Kotlin-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../06-Les_commentaires/P06_b-Commentaires_oublies/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../05-Les_constantes/P05_a-Corriger_erreur_code/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../05-Les_constantes/P05_a-Corriger_erreur_code/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../06-Les_commentaires/P06_b-Commentaires_oublies/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../06-Les_commentaires/P06_b-Commentaires_oublies/src/main/kotlin/main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2leiAN81d5N3Uub7YZJvnnrRrjq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5e6b1b3-d02e-4308-80a7-867f47b1c4fb" name="Changes" comment="" />
+      <created>1725546801134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725546801134</updated>
+      <workItem from="1725546803044" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
