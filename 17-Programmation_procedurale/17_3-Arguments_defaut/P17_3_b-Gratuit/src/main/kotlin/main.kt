@@ -1,5 +1,7 @@
-fun tip(bill: Int, percentage: Int): Int {
+fun tip(bill: Int, percentage: Int = 10): Int {
     // TODO
+    val result = bill / 100 * percentage
+    return result
 }
 
 fun main() {
